@@ -32,7 +32,7 @@ Norwich City,Norwich
 Nottingham Forest,Nottingham
 Oldham Athletic,Oldham
 Portsmouth,Portsmouth
-Queens ParkRangers,London
+Queens Park Rangers,London
 Reading,Reading
 Sheffield United,Sheffield
 Sheffield Wednesday,Sheffield
@@ -196,7 +196,7 @@ CFC Hertha 06,Berlin
 Hertha Zehlendorf,Berlin
 SC Hessen Dreieich,Dreieich
 KSV Hessen Kassel,Kassel
-Hertha BSC,Berlin
+Hertha BSC Berlin,Berlin
 FC Hertha Wiesbach,Eppelborn
 TSG 1899 Hoffenheim,Sinsheim
 FSV Hollenbach,Mulfingen
@@ -366,9 +366,9 @@ Würzburger FV,Würzburg
 Würzburger Kickers,Würzburg
 FSV Zwickau,Zwickau
 Alavés,Vitoria-Gasteiz
-Athletic Bilbao,Bilbao
+Athletic Club de Bilbao,Bilbao
 Atlético Madrid,Madrid
-Barcelona,Barcelona
+FC Barcelona,FC Barcelona
 Celta Vigo,Vigo
 Eibar,Eibar
 Espanyol,Cornellà de Llobregat
@@ -376,13 +376,13 @@ Getafe,Getafe
 Girona,Girona
 Huesca,Huesca
 Leganés,Leganés
-Levante,Valencia
+Levante UD,Valencia CF
 Rayo Vallecano,Madrid
-Real Betis,Seville
-Real Madrid,Madrid
+Real Betis Balompi√©,Seville
+Real Madrid CF,Madrid
 Real Sociedad,San Sebastián
-Sevilla,Seville
-Valencia,Valencia
+Sevilla FC,Seville
+Valencia CF,Valencia CF
 Valladolid,Valladolid
 Villarreal,Villarreal
 Albacete,Albacete
@@ -395,7 +395,7 @@ Elche,Elche
 Extremadura,Almendralejo
 Gimnàstic,Tarragona
 Granada,Granada
-Las Palmas,Las Palmas
+UD Las Palmas,UD Las Palmas
 Lugo,Lugo
 Málaga,Málaga
 Mallorca,Palma
@@ -410,12 +410,12 @@ Zaragoza,Zaragoza
 Atalanta,Bergamo
 Bologna,Bologna
 Cagliari,Cagliari
-Chievo,Verona
+Chievo Verona,Verona
 Empoli,Empoli
 Fiorentina,Florence
 Frosinone,Frosinone
 Genoa,Genoa
-Internazionale,Milan
+Inter,Milan
 Juventus,Turin
 Lazio,Rome
 Milan,Milan
